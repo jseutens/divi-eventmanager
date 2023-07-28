@@ -1,0 +1,2596 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Event Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-13 10:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: dpevent"
+
+#: includes/modules/EventGrid/EventGrid.php:485
+#: includes/modules/EventList/EventList.php:499
+msgid " \"ALL\" Text Label In Filter Option"
+msgstr ""
+
+#: include/dem_admin_order_list.php:610
+msgid " Inquiry Information"
+msgstr ""
+
+#: include/dem_admin_order_list.php:24
+msgid " Order Information"
+msgstr ""
+
+#: include/event-post-type.php:178
+msgid "+ Add More Image"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:473
+#: includes/modules/EventSlider/EventSlider.php:486
+#: includes/modules/EventSlider/EventSlider.php:499
+#: includes/modules/EventSlider/EventSlider.php:513
+msgid "1"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:233
+#: includes/modules/EventList/EventList.php:260
+#: includes/modules/EventSlider/EventSlider.php:229
+msgid "12 Hours"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:474
+#: includes/modules/EventSlider/EventSlider.php:487
+#: includes/modules/EventSlider/EventSlider.php:500
+#: includes/modules/EventSlider/EventSlider.php:514
+msgid "2"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:190
+msgid "2 Column"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:234
+#: includes/modules/EventList/EventList.php:261
+#: includes/modules/EventSlider/EventSlider.php:230
+msgid "24 Hours"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:475
+#: includes/modules/EventSlider/EventSlider.php:488
+#: includes/modules/EventSlider/EventSlider.php:501
+#: includes/modules/EventSlider/EventSlider.php:515
+msgid "3"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:191
+msgid "3 Column"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:502
+#: includes/modules/EventSlider/EventSlider.php:516
+msgid "4"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:192
+msgid "4 Column"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:517
+msgid "5"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:243
+#: include/dem-eventmanager-shortcode.php:482
+#: includes/modules/EventGrid/EventGrid.php:1843
+#: includes/modules/EventGrid/EventGrid.php:3269
+#: includes/modules/EventList/EventList.php:1851
+#: includes/modules/EventList/EventList.php:3236
+msgid "<span class=\"et-pb-icon\">&#x34;</span>"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:244
+#: include/dem-eventmanager-shortcode.php:483
+#: includes/modules/EventGrid/EventGrid.php:1844
+#: includes/modules/EventGrid/EventGrid.php:3270
+#: includes/modules/EventList/EventList.php:1852
+#: includes/modules/EventList/EventList.php:3237
+msgid "<span class=\"et-pb-icon\">&#x35;</span>"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:15
+msgid "A widget to display a list of upcoming events"
+msgstr ""
+
+#: include/dem_admin_order_list.php:495 include/dem_admin_order_list.php:585
+#: include/dem_admin_order_list.php:734 include/dem_admin_order_list.php:825
+msgid "Action"
+msgstr ""
+
+#: include/event-post-type.php:88
+msgid "Add  Event"
+msgstr ""
+
+#: include/event-post-type.php:89
+msgid "Add New Event "
+msgstr ""
+
+#: include/event-post-type.php:126
+msgid "Add New Event Category"
+msgstr ""
+
+#: include/event-post-type.php:149
+msgid "Add New Event Tag"
+msgstr ""
+
+#: include/single-dp_events_style2.php:35
+msgid "Address"
+msgstr ""
+
+#: include/event-post-type.php:387
+msgid "Address:"
+msgstr ""
+
+#: include/dem-settings.php:1182
+msgid "Admin Email Setting"
+msgstr ""
+
+#: include/dem-settings.php:1149
+msgid "Admin Email Subject"
+msgstr ""
+
+#: include/event-post-type.php:494
+msgid "Admin Receiver Email Address : "
+msgstr ""
+
+#: include/dem-settings.php:1209
+msgid ""
+"After Booking Status Completed Email Customization Settings(Only for Booking "
+"Form)"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:161
+#: includes/modules/EventGrid/EventGrid.php:385
+#: includes/modules/EventGrid/EventGrid.php:415
+#: includes/modules/EventList/EventList.php:190
+#: includes/modules/EventList/EventList.php:399
+#: includes/modules/EventList/EventList.php:429
+#: includes/modules/EventSlider/EventSlider.php:293
+#: includes/modules/EventSlider/EventSlider.php:323
+msgid "All"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:1609
+#: includes/modules/EventGrid/EventGrid.php:3034
+#: includes/modules/EventList/EventList.php:1637
+#: includes/modules/EventList/EventList.php:3019
+msgid "All Categories"
+msgstr ""
+
+#: include/event-post-type.php:121
+msgid "All Event Categories"
+msgstr ""
+
+#: include/event-post-type.php:144
+msgid "All Event Tags"
+msgstr ""
+
+#: include/event-post-type.php:92 includes/modules/EventGrid/EventGrid.php:1610
+#: includes/modules/EventGrid/EventGrid.php:3035
+#: includes/modules/EventList/EventList.php:1638
+#: includes/modules/EventList/EventList.php:3020
+msgid "All Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:491
+#: includes/modules/EventList/EventList.php:505
+msgid "ALL Text Filter Label"
+msgstr ""
+
+#: include/dem_admin_order_list.php:547
+msgid "Are you sure you want to delete this record?"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:734
+#: includes/modules/EventGrid/EventGrid.php:3163
+#: includes/modules/EventList/EventList.php:1749
+#: includes/modules/EventList/EventList.php:3133
+msgid "at"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:380
+msgid "Autoplay"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:392
+msgid "Autoplay Slider Speed (in ms )"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:397
+msgid "autoplaySpeed ( in ms ).Default is 2000."
+msgstr ""
+
+#: include/dem_admin_order_list.php:98 include/dem_admin_order_list.php:686
+msgid "Back"
+msgstr ""
+
+#: include/event-post-type.php:203
+msgid ""
+"Best image size for thumbnail : <strong>150px * 150px</strong> (upload : JPG,"
+" PNG & GIF )"
+msgstr ""
+
+#: include/dem_admin_order_list.php:493 include/dem_admin_order_list.php:583
+msgid "Booking Date"
+msgstr ""
+
+#: include/dem_admin_order_list.php:88
+msgid "Booking Date :"
+msgstr ""
+
+#: include/dem_admin_order_list.php:482 include/dem_admin_order_list.php:572
+msgid "Booking ID"
+msgstr ""
+
+#: include/dem_admin_order_list.php:45
+msgid "Booking ID :"
+msgstr ""
+
+#: include/dem-ajax-from.php:70 include/dem_admin_order_list.php:287
+#: include/dem_admin_order_list.php:494 include/dem_admin_order_list.php:584
+msgid "Booking Status"
+msgstr ""
+
+#: include/dem_admin_order_list.php:92
+msgid "Booking Status :"
+msgstr ""
+
+#: include/dem-settings.php:1252
+msgid "Booking Status Completed Admin Email Setting"
+msgstr ""
+
+#: include/dem-settings.php:1219
+msgid "Booking Status Completed Admin Email Subject"
+msgstr ""
+
+#: include/dem-settings.php:1226
+msgid "Booking Status Completed User Email Setting"
+msgstr ""
+
+#: include/dem-settings.php:1212
+msgid "Booking Status Completed User Email Subject"
+msgstr ""
+
+#: include/dem-ajax-from.php:71 include/dem_admin_order_list.php:288
+msgid "Booking/Inquiry Date"
+msgstr ""
+
+#: include/dem-ajax-from.php:72 include/dem-ajax-from.php:626
+#: include/dem_admin_order_list.php:289
+msgid "Booking/Inquiry From ."
+msgstr ""
+
+#: include/dem-ajax-from.php:60 include/dem-ajax-from.php:616
+#: include/dem_admin_order_list.php:277
+msgid "Booking/Inquiry Information"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:426
+msgid "Calendar Border Color"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:413
+msgid "Calendar Border Width"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:411
+msgid "Calendar Border Width (In Pixel)"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:36
+msgid "Calendar Center Title"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:25
+msgid "Calendar Color Settings"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:89
+msgid "Calendar Event Feed"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:451
+msgid "Calendar Event Feed Background Color"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:49
+msgid "Calendar Filter Button"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:403
+msgid "Calendar Filter Button Active Background Color"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:395
+msgid "Calendar Filter Button Background Color"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:60
+msgid "Calendar Heading/Day Text"
+msgstr ""
+
+#: include/single-dp_events_style2.php:28
+msgid "Categories"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:452
+#: includes/modules/EventList/EventList.php:466
+msgid "Category Filter List Order By"
+msgstr ""
+
+#: include/dem-settings.php:1116
+msgid "Cc Email Address"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:195
+msgid "Choose column layout of event."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:441
+#: includes/modules/EventList/EventList.php:455
+msgid "Choose Default Filter Category"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:186
+msgid "Choose how many Display Number of Event you would like to display."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:406
+#: includes/modules/EventList/EventList.php:420
+#: includes/modules/EventSlider/EventSlider.php:314
+msgid "Choose which categories you would like to include in the event."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:436
+#: includes/modules/EventList/EventList.php:450
+#: includes/modules/EventSlider/EventSlider.php:344
+msgid "Choose which tags you would like to include in the events."
+msgstr ""
+
+#: include/event-post-type.php:395
+msgid "City:"
+msgstr ""
+
+#: divi-eventmanager.php:79
+msgid "Color Settings"
+msgstr ""
+
+#: include/dem-ajax-from.php:306 include/dem-ajax-from.php:713
+#: include/dem_admin_order_list.php:371
+msgid "Confirmation Mail From Event Booking/Inquiry."
+msgstr ""
+
+#: include/single-dp_events_style2.php:27
+msgid "Cost"
+msgstr ""
+
+#: include/event-post-type.php:614
+msgid "Cost: "
+msgstr ""
+
+#: include/event-post-type.php:42 includes/modules/EventGrid/EventGrid.php:462
+#: includes/modules/EventList/EventList.php:476
+msgid "Count"
+msgstr ""
+
+#: include/event-post-type.php:403
+msgid "Country:"
+msgstr ""
+
+#: include/event-post-type.php:537
+msgid "Currency Symbol: "
+msgstr ""
+
+#: include/event-post-type.php:748
+msgid "Custom field deleted."
+msgstr ""
+
+#: include/event-post-type.php:747
+msgid "Custom field updated."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:385
+#: includes/modules/EventGrid/EventGrid.php:247
+#: includes/modules/EventList/EventList.php:248
+#: includes/modules/EventSlider/EventSlider.php:217
+msgid "Custom Link"
+msgstr ""
+
+#: include/dem-settings.php:1002
+msgid "Custom Style Booking/Inquiry Color Settings"
+msgstr ""
+
+#: include/dem-settings.php:1062
+msgid "Custom Style Form Boxshadow Color"
+msgstr ""
+
+#: include/dem-settings.php:1026
+msgid "Custom Style Form Button Background Color"
+msgstr ""
+
+#: include/dem-settings.php:1032
+msgid "Custom Style Form Button Background Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:1014
+msgid "Custom Style Form Button Text Color"
+msgstr ""
+
+#: include/dem-settings.php:1020
+msgid "Custom Style Form Button Text Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:1038
+msgid "Custom Style Form Field Background Color"
+msgstr ""
+
+#: include/dem-settings.php:1050
+msgid "Custom Style Form Field Label Text Color"
+msgstr ""
+
+#: include/dem-settings.php:1044
+msgid "Custom Style Form Field Placeholder Text Color"
+msgstr ""
+
+#: include/dem-settings.php:1056
+msgid "Custom Style Form Heading Color"
+msgstr ""
+
+#: include/dem-settings.php:1068
+msgid "Custom Style Share Icon Color"
+msgstr ""
+
+#: include/dem-settings.php:1074
+msgid "Custom Style Share Icon Hover Color"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:78
+msgid "Date Format"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:61
+#: includes/modules/EventGrid/EventGrid.php:215
+#: includes/modules/EventGrid/EventGrid.php:1616
+#: includes/modules/EventGrid/EventGrid.php:3041
+#: includes/modules/EventList/EventList.php:228
+#: includes/modules/EventList/EventList.php:1644
+#: includes/modules/EventList/EventList.php:3026
+#: includes/modules/EventSlider/EventSlider.php:197
+msgid "Date: new to old"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:62
+#: includes/modules/EventGrid/EventGrid.php:216
+#: includes/modules/EventGrid/EventGrid.php:1617
+#: includes/modules/EventGrid/EventGrid.php:3042
+#: includes/modules/EventList/EventList.php:229
+#: includes/modules/EventList/EventList.php:1645
+#: includes/modules/EventList/EventList.php:3027
+#: includes/modules/EventSlider/EventSlider.php:198
+msgid "Date: old to new"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:72
+msgid "Day Format"
+msgstr ""
+
+#: include/dem-ajax-from.php:617
+msgid "Dear Site Administrator, Following booking/inquiry  has been received."
+msgstr ""
+
+#: include/dem-ajax-from.php:61 include/dem_admin_order_list.php:278
+msgid ""
+"Dear Site Administrator, Following booking/inquiry enquiry has been received."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:384
+#: includes/modules/EventGrid/EventGrid.php:246
+#: includes/modules/EventGrid/EventGrid.php:259
+#: includes/modules/EventGrid/EventGrid.php:311
+#: includes/modules/EventGrid/EventGrid.php:328
+#: includes/modules/EventList/EventList.php:247
+#: includes/modules/EventList/EventList.php:273
+#: includes/modules/EventList/EventList.php:325
+#: includes/modules/EventList/EventList.php:342
+#: includes/modules/EventSlider/EventSlider.php:216
+#: includes/modules/EventSlider/EventSlider.php:242
+#: includes/modules/EventSlider/EventSlider.php:256
+msgid "Default"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:1615
+#: includes/modules/EventGrid/EventGrid.php:3040
+#: includes/modules/EventList/EventList.php:1643
+#: includes/modules/EventList/EventList.php:3025
+msgid "Default Sorting"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:294
+#: includes/modules/EventList/EventList.php:308
+msgid "Default[No Filter Options]"
+msgstr ""
+
+#: include/dem_admin_order_list.php:548 include/dem_admin_order_list.php:791
+#: include/dem_admin_order_list.php:791
+msgid "Delete"
+msgstr ""
+
+#: include/event-post-type.php:40
+msgid "Description"
+msgstr ""
+
+#: include/dem-settings.php:58
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:426
+msgid "Display Arrow Navigation"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:448
+msgid "Display Dots Navigation"
+msgstr ""
+
+#: include/dem-settings.php:149
+msgid "Display Event Gallery Section"
+msgstr ""
+
+#: include/dem-settings.php:158
+msgid "Display Event Location Section"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:289
+msgid "Display Events By Category"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:411
+#: includes/modules/EventList/EventList.php:425
+#: includes/modules/EventSlider/EventSlider.php:319
+msgid "Display Events By Tags"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:295
+#: includes/modules/EventList/EventList.php:309
+msgid "Display Events Category Filter"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:381
+#: includes/modules/EventList/EventList.php:395
+msgid "Display Events Category On Filter/Display Events By Category"
+msgstr ""
+
+#: include/dem-settings.php:176
+msgid "Display Form Label"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:253
+msgid "Display Grid Day View"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:240
+msgid "Display Grid Week View  "
+msgstr ""
+
+#: include/dem-settings.php:167
+msgid "Display Image Section"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:292
+msgid "Display List Day View"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:336
+msgid "Display List Month View"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:314
+msgid "Display List Week View"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:358
+msgid "Display List Year View"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:202
+msgid "Display Number Of Event"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:215
+msgid "Display number of event"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:183
+msgid "Display Number of Event on Slider"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:21
+#: includes/modules/EventList/EventList.php:21
+#: includes/modules/EventSlider/EventSlider.php:24
+msgid "Display On/Off"
+msgstr ""
+
+#: include/dem-settings.php:140
+msgid "Display Social Icon Section"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:314
+#: includes/modules/EventList/EventList.php:328
+#: includes/modules/EventSlider/EventSlider.php:259
+msgid "Display This Month Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:313
+#: includes/modules/EventList/EventList.php:327
+#: includes/modules/EventSlider/EventSlider.php:258
+msgid "Display This Week Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:315
+#: includes/modules/EventList/EventList.php:329
+#: includes/modules/EventSlider/EventSlider.php:260
+msgid "Display This Year Events"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:279
+msgid "Display Time Grid Day View"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:266
+msgid "Display Time Grid Week View"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:312
+#: includes/modules/EventList/EventList.php:326
+#: includes/modules/EventSlider/EventSlider.php:257
+msgid "Display Today Events"
+msgstr ""
+
+#. Name of the plugin
+msgid "Divi Event Manager"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Divi Event Manager is a Fully Responsive,lightweight, scalable and full "
+"event management featured.Manage your events with this powerful plugin and "
+"display them using divi modules,shortcodes and widgets.Quickly and easily "
+"create events, accept bookings."
+msgstr ""
+
+#. Author of the plugin
+msgid "Divi Professional"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:556
+msgid "Dot Navigation Active/Hover Background Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:547
+msgid "Dot Navigation Background Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:460
+msgid "Dots Navigation Speed (in ms )"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:465
+msgid "dots Navigation speed.Default is 2000."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:11
+msgid "DP Event Calendar"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:11
+msgid "DP Event Grid"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:11
+msgid "DP Event List"
+msgstr ""
+
+#: include/dem_epanel_fields.php:4
+msgid "DP Event Manager"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:12
+msgid "DP Event Slider"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:324
+#: includes/modules/EventList/EventList.php:338
+msgid "DropDown Filter Result Show Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:296
+#: includes/modules/EventList/EventList.php:310
+msgid "DropDown Filter With Various Options"
+msgstr ""
+
+#: include/event-post-type.php:90
+msgid "Edit Event "
+msgstr ""
+
+#: include/event-post-type.php:124
+msgid "Edit Event Category"
+msgstr ""
+
+#: include/event-post-type.php:147
+msgid "Edit Event Tag"
+msgstr ""
+
+#: include/dem-ajax-from.php:63 include/dem-ajax-from.php:619
+#: include/dem_admin_order_list.php:280 include/dem_admin_order_list.php:485
+#: include/dem_admin_order_list.php:575 include/dem_admin_order_list.php:722
+#: include/dem_admin_order_list.php:813 include/single-dp_events_style2.php:33
+msgid "Email"
+msgstr ""
+
+#: include/dem_admin_order_list.php:57 include/dem_admin_order_list.php:644
+msgid "Email :"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:990
+#: include/single-dp_events_style1.php:25
+#: include/single-dp_events_style2.php:42
+msgid "Email Address"
+msgstr ""
+
+#: include/dem-settings.php:70 include/dem-settings.php:1084
+msgid "Email Customization Settings"
+msgstr ""
+
+#: include/event-post-type.php:486
+msgid "Email: "
+msgstr ""
+
+#: include/dem-settings.php:1132
+msgid "Enable Custom Email Send Message Format"
+msgstr ""
+
+#: include/dem-settings.php:1005
+msgid "Enable Custom Style"
+msgstr ""
+
+#: include/dem-settings.php:1122
+msgid "Enable Different admin receiver for the inquiry/booking email per event"
+msgstr ""
+
+#: include/dem-settings.php:78
+msgid "Enable Pagination Style"
+msgstr ""
+
+#: include/dem-settings.php:109
+msgid "Enable Slider Style"
+msgstr ""
+
+#: include/dem-settings.php:190 include/dem-settings.php:381
+#: include/dem-settings.php:583 include/dem-settings.php:763
+msgid "Enable Style 1"
+msgstr ""
+
+#: include/dem-settings.php:233 include/dem-settings.php:436
+#: include/dem-settings.php:656 include/dem-settings.php:884
+msgid "Enable Style 2"
+msgstr ""
+
+#: include/dem-settings.php:312 include/dem-settings.php:515
+#: include/dem-settings.php:705
+msgid "Enable Style 3"
+msgstr ""
+
+#: include/single-dp_events_style2.php:26
+msgid "End"
+msgstr ""
+
+#: include/event-post-type.php:272
+msgid "End Date"
+msgstr ""
+
+#: include/event-post-type.php:779
+msgid "End date"
+msgstr ""
+
+#: include/event-post-type.php:275
+msgid "End Time"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:530
+#: includes/modules/EventList/EventList.php:543
+#: includes/modules/EventSlider/EventSlider.php:369
+msgid "Enter Here Read More Button Text."
+msgstr ""
+
+#: include/event-post-type.php:824
+msgid "Enter the Event"
+msgstr ""
+
+#: include/dem-settings.php:47
+msgid "Error authenticating request. Please try again."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:55
+#: includes/modules/EventList/EventList.php:55
+msgid "Event Address"
+msgstr ""
+
+#: include/event-post-type.php:316
+msgid "Event Booking/Inquiry Form Enabled/Disabled: "
+msgstr ""
+
+#: include/dem-ajax-from.php:305 include/dem-ajax-from.php:712
+#: include/dem_admin_order_list.php:370
+msgid "Event Booking/Inquiry."
+msgstr ""
+
+#: include/event-post-type.php:118 include/event-post-type.php:119
+#: include/event-post-type.php:128
+msgid "Event Categories"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:71
+msgid "Event Category/Address"
+msgstr ""
+
+#: include/event-post-type.php:342
+msgid "Event Custom Field 1 :"
+msgstr ""
+
+#: include/event-post-type.php:351
+msgid "Event Custom Field 2 :"
+msgstr ""
+
+#: include/event-post-type.php:360
+msgid "Event Custom Field 3 :"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:71
+#: includes/modules/EventList/EventList.php:72
+#: includes/modules/EventSlider/EventSlider.php:85
+msgid "Event Date"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:91
+#: includes/modules/EventList/EventList.php:114
+#: includes/modules/EventSlider/EventSlider.php:60
+msgid "Event Description"
+msgstr ""
+
+#: include/event-post-type.php:281
+msgid "Event Detail Page Custom Link :"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:380
+#: includes/modules/EventGrid/EventGrid.php:242
+#: includes/modules/EventList/EventList.php:243
+#: includes/modules/EventSlider/EventSlider.php:212
+msgid "Event Detail Page Link Type"
+msgstr ""
+
+#: include/event-post-type.php:290
+msgid "Event Detail Page Link Type: "
+msgstr ""
+
+#: include/dem-settings.php:137
+msgid "Event Detail Page Settings"
+msgstr ""
+
+#: include/event-post-type.php:758
+msgid "Event draft updated."
+msgstr ""
+
+#: include/event-post-type.php:622
+msgid "Event Form Type: "
+msgstr ""
+
+#: include/event-post-type.php:169
+msgid "Event Gallery"
+msgstr ""
+
+#: include/dem-ajax-from.php:66 include/dem-ajax-from.php:622
+#: include/dem_admin_order_list.php:283 include/dem_admin_order_list.php:483
+#: include/dem_admin_order_list.php:573 include/dem_admin_order_list.php:720
+#: include/dem_admin_order_list.php:811
+msgid "Event ID"
+msgstr ""
+
+#: include/dem_admin_order_list.php:49 include/dem_admin_order_list.php:636
+msgid "Event ID :"
+msgstr ""
+
+#: include/event-post-type.php:831
+msgid "Event Image ( Best view size: 400px * 400px)"
+msgstr ""
+
+#: include/event-post-type.php:165 include/single-dp_events_style1.php:21
+#: include/single-dp_events_style2.php:24
+msgid "Event Information"
+msgstr ""
+
+#: include/single-dp_events_style1.php:33
+#: include/single-dp_events_style2.php:38
+msgid "Event Location"
+msgstr ""
+
+#: include/dem-ajax-from.php:65 include/dem-ajax-from.php:621
+#: include/dem_admin_order_list.php:282 include/dem_admin_order_list.php:489
+#: include/dem_admin_order_list.php:579 include/dem_admin_order_list.php:732
+#: include/dem_admin_order_list.php:823
+msgid "Event Name"
+msgstr ""
+
+#: include/dem_admin_order_list.php:67 include/dem_admin_order_list.php:654
+msgid "Event Name :"
+msgstr ""
+
+#: include/single-dp_events_style1.php:23
+#: include/single-dp_events_style2.php:31
+msgid "Event Organizer"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:90
+msgid "Event Price"
+msgstr ""
+
+#: include/event-post-type.php:751
+msgid "Event published."
+msgstr ""
+
+#: include/event-post-type.php:750
+#, php-format
+msgid "Event restored to revision from %s"
+msgstr ""
+
+#: include/event-post-type.php:752
+msgid "Event saved."
+msgstr ""
+
+#: include/event-post-type.php:755
+#, php-format
+msgid "Event scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: include/dem-settings.php:4
+msgid "Event Settings"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:66
+#: includes/modules/EventGrid/EventGrid.php:220
+#: includes/modules/EventGrid/EventGrid.php:1621
+#: includes/modules/EventGrid/EventGrid.php:3046
+#: includes/modules/EventList/EventList.php:233
+#: includes/modules/EventList/EventList.php:1649
+#: includes/modules/EventList/EventList.php:3031
+#: includes/modules/EventSlider/EventSlider.php:202
+msgid "Event Start Date : ASC"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:65
+#: includes/modules/EventGrid/EventGrid.php:219
+#: includes/modules/EventGrid/EventGrid.php:1620
+#: includes/modules/EventGrid/EventGrid.php:3045
+#: includes/modules/EventList/EventList.php:232
+#: includes/modules/EventList/EventList.php:1648
+#: includes/modules/EventList/EventList.php:3030
+#: includes/modules/EventSlider/EventSlider.php:201
+msgid "Event Start Date : DESC"
+msgstr ""
+
+#: include/event-post-type.php:753
+msgid "Event submitted."
+msgstr ""
+
+#: include/event-post-type.php:141 include/event-post-type.php:142
+#: include/event-post-type.php:151
+msgid "Event Tags"
+msgstr ""
+
+#: divi-eventmanager.php:332
+msgid "Event Ticket Order"
+msgstr ""
+
+#: divi-eventmanager.php:332
+msgid "Event Ticket Order/Inquiry"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:102
+#: includes/modules/EventSlider/EventSlider.php:102
+msgid "Event Time"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:38
+#: includes/modules/EventList/EventList.php:38
+msgid "Event Title"
+msgstr ""
+
+#: include/event-post-type.php:746 include/event-post-type.php:749
+msgid "Event updated."
+msgstr ""
+
+#: include/single-dp_events_style2.php:34
+msgid "Event Venue"
+msgstr ""
+
+#: include/single-dp_events_style1.php:35
+#: include/single-dp_events_style2.php:40
+msgid "Event Venue Gallery"
+msgstr ""
+
+#: include/event-post-type.php:86 include/event-post-type.php:87
+#: include/event-post-type.php:97
+msgid "Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:585
+#: includes/modules/EventList/EventList.php:598
+msgid "Filter Button Active Background Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:576
+#: includes/modules/EventList/EventList.php:589
+msgid "Filter Button Active Text Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:567
+#: includes/modules/EventList/EventList.php:580
+msgid "Filter Button Background Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:558
+#: includes/modules/EventList/EventList.php:571
+msgid "Filter Button Text Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:549
+#: includes/modules/EventList/EventList.php:562
+msgid "Filter Result Text/Reset Text Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:540
+#: includes/modules/EventList/EventList.php:553
+msgid "Filter Row Background Color"
+msgstr ""
+
+#: include/dem-settings.php:65
+#: includes/modules/EventCalendar/EventCalendar.php:19
+#: includes/modules/EventGrid/EventGrid.php:19
+#: includes/modules/EventList/EventList.php:19
+#: includes/modules/EventSlider/EventSlider.php:21
+msgid "General Settings"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:994
+#: include/single-dp_events_style1.php:29
+#: include/single-dp_events_style2.php:46
+msgid "Get Tickets"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:177
+msgid "Grid Style1"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:178
+msgid "Grid Style2"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:179
+msgid "Grid Style3"
+msgstr ""
+
+#: include/dem-settings.php:66
+msgid "Grid View Color Settings"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:205
+#: includes/modules/EventList/EventList.php:218
+msgid "Here Display number of event per page"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:467
+#: includes/modules/EventList/EventList.php:481
+msgid "Here you can adjust Category Filter List Order."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:388
+#: includes/modules/EventGrid/EventGrid.php:250
+#: includes/modules/EventList/EventList.php:251
+#: includes/modules/EventSlider/EventSlider.php:220
+msgid "Here you can adjust Event Detail Page Link Type."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:237
+#: includes/modules/EventList/EventList.php:264
+#: includes/modules/EventSlider/EventSlider.php:233
+msgid "Here you can adjust event Time Format."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:224
+#: includes/modules/EventList/EventList.php:238
+#: includes/modules/EventSlider/EventSlider.php:207
+msgid "Here you can adjust the order of event."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:319
+#: includes/modules/EventList/EventList.php:333
+#: includes/modules/EventSlider/EventSlider.php:263
+msgid ""
+"Here you can display  Without Filter Options Show Today/Week/Month/Year "
+"Events."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:264
+#: includes/modules/EventGrid/EventGrid.php:334
+#: includes/modules/EventList/EventList.php:278
+#: includes/modules/EventList/EventList.php:348
+#: includes/modules/EventSlider/EventSlider.php:247
+msgid "Here you can display event by past or upcomming."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:299
+#: includes/modules/EventList/EventList.php:313
+msgid "Here you can display events filter options."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:390
+#: includes/modules/EventList/EventList.php:404
+#: includes/modules/EventSlider/EventSlider.php:298
+msgid "Here you can select event category."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:183
+msgid "Here you can select style of event grid."
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:178
+msgid "Here you can select style of event slider."
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:211
+msgid "Here you can select style of list view."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:448
+#: includes/modules/EventList/EventList.php:462
+msgid "Here you can select the  Default Category Filter."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:508
+#: includes/modules/EventList/EventList.php:522
+msgid "Here you can select the display Pagination or not."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:420
+#: includes/modules/EventList/EventList.php:434
+#: includes/modules/EventSlider/EventSlider.php:328
+msgid "Here you can select the event tags."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:471
+#: includes/modules/EventList/EventList.php:485
+msgid "Hide \"All\" Text in Filter"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:339
+#: includes/modules/EventList/EventList.php:353
+msgid "Hide DropDown Category Filter"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:367
+#: includes/modules/EventList/EventList.php:381
+msgid "Hide Sorting DropDown Filter"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:353
+#: includes/modules/EventList/EventList.php:367
+msgid "Hide Today/Week/Month DropDown Filter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://divi-professional.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://divi-professional.com/product/divi-event-manager-plugin/"
+msgstr ""
+
+#: include/event-post-type.php:39
+msgid "ID"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:456
+#: includes/modules/EventList/EventList.php:470
+msgid "ID: High to Low"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:457
+#: includes/modules/EventList/EventList.php:471
+msgid "ID: Low to High"
+msgstr ""
+
+#: include/event-post-type.php:198 include/event-post-type.php:776
+msgid "Image"
+msgstr ""
+
+#: include/event-post-type.php:195
+msgid "Image Details: "
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:422
+msgid "Infinity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: include/dem_admin_order_list.php:733 include/dem_admin_order_list.php:824
+msgid "Inquiry Date"
+msgstr ""
+
+#: include/dem_admin_order_list.php:678
+msgid "Inquiry Date :"
+msgstr ""
+
+#: include/dem_admin_order_list.php:719 include/dem_admin_order_list.php:810
+msgid "Inquiry ID"
+msgstr ""
+
+#: include/dem_admin_order_list.php:632
+msgid "Inquiry ID :"
+msgstr ""
+
+#: include/dem_admin_order_list.php:714
+msgid "Inquiry Listing"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:305
+#: includes/modules/EventCalendar/EventCalendar.php:308
+msgid "List Day View Label"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:349
+#: includes/modules/EventCalendar/EventCalendar.php:352
+msgid "List Month View Label"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:205
+msgid "List Style 1"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:206
+msgid "List Style 2"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:207
+msgid "List Style 3"
+msgstr ""
+
+#: include/dem-settings.php:67
+msgid "List View Color Settings"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:327
+#: includes/modules/EventCalendar/EventCalendar.php:330
+msgid "List Week View Label"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:371
+#: includes/modules/EventCalendar/EventCalendar.php:374
+msgid "List Year View Label"
+msgstr ""
+
+#: include/event-post-type.php:756
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: include/dem-ajax-from.php:62 include/dem-ajax-from.php:618
+#: include/dem-eventmanager-shortcode.php:989
+#: include/dem_admin_order_list.php:279 include/event-post-type.php:38
+#: include/event-post-type.php:777 include/single-dp_events_style1.php:24
+#: include/single-dp_events_style2.php:41
+msgid "Name"
+msgstr ""
+
+#: include/dem_admin_order_list.php:53 include/dem_admin_order_list.php:640
+msgid "Name :"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:537
+msgid "Navigation Arrow Background Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:527
+msgid "Navigation Arrow Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:444
+msgid "Navigation speed.Default is 2000."
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:439
+msgid "navSpeed (in ms )"
+msgstr ""
+
+#: include/event-post-type.php:91
+msgid "New Event"
+msgstr ""
+
+#: include/event-post-type.php:127
+msgid "New Event Category"
+msgstr ""
+
+#: include/event-post-type.php:150
+msgid "New Event Tag"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:245
+#: includes/modules/EventCalendar/EventCalendar.php:258
+#: includes/modules/EventCalendar/EventCalendar.php:271
+#: includes/modules/EventCalendar/EventCalendar.php:284
+#: includes/modules/EventCalendar/EventCalendar.php:297
+#: includes/modules/EventCalendar/EventCalendar.php:319
+#: includes/modules/EventCalendar/EventCalendar.php:341
+#: includes/modules/EventCalendar/EventCalendar.php:363
+#: includes/modules/EventGrid/EventGrid.php:343
+#: includes/modules/EventGrid/EventGrid.php:357
+#: includes/modules/EventGrid/EventGrid.php:371
+#: includes/modules/EventGrid/EventGrid.php:475
+#: includes/modules/EventGrid/EventGrid.php:504
+#: includes/modules/EventGrid/EventGrid.php:518
+#: includes/modules/EventList/EventList.php:357
+#: includes/modules/EventList/EventList.php:371
+#: includes/modules/EventList/EventList.php:385
+#: includes/modules/EventList/EventList.php:489
+#: includes/modules/EventList/EventList.php:518
+#: includes/modules/EventList/EventList.php:532
+#: includes/modules/EventSlider/EventSlider.php:357
+#: includes/modules/EventSlider/EventSlider.php:385
+#: includes/modules/EventSlider/EventSlider.php:406
+#: includes/modules/EventSlider/EventSlider.php:419
+#: includes/modules/EventSlider/EventSlider.php:430
+#: includes/modules/EventSlider/EventSlider.php:453
+msgid "No"
+msgstr ""
+
+#: include/event-post-type.php:94
+msgid "No Event found"
+msgstr ""
+
+#: include/event-post-type.php:95
+msgid "No Event found in Trash"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:657
+#: includes/modules/EventList/EventList.php:691
+#: includes/modules/EventSlider/EventSlider.php:626
+msgid "no label"
+msgstr ""
+
+#: include/event-post-type.php:606
+msgid "No Of Ticket Allow To Book Per Person: "
+msgstr ""
+
+#: include/event-post-type.php:598
+msgid "No Of Ticket Available: "
+msgstr ""
+
+#: include/dem-ajax-from.php:68 include/dem-ajax-from.php:623
+#: include/dem_admin_order_list.php:285 include/dem_admin_order_list.php:727
+#: include/dem_admin_order_list.php:818
+msgid "No of Tickets"
+msgstr ""
+
+#: include/dem_admin_order_list.php:100
+msgid "No Records Found !!!"
+msgstr ""
+
+#: include/dem_admin_order_list.php:566 include/dem_admin_order_list.php:690
+#: include/dem_admin_order_list.php:803
+msgid "No Records Found !!! "
+msgstr ""
+
+#: include/dem_admin_order_list.php:491 include/dem_admin_order_list.php:581
+msgid "No. of Tickets"
+msgstr ""
+
+#: include/dem_admin_order_list.php:80 include/dem_admin_order_list.php:659
+msgid "No. of Tickets :"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:48
+msgid "Number of events to show"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:992
+#: include/single-dp_events_style1.php:27
+#: include/single-dp_events_style2.php:44
+msgid "Number of Tickets"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:735
+#: includes/modules/EventGrid/EventGrid.php:3164
+#: includes/modules/EventList/EventList.php:1750
+#: includes/modules/EventList/EventList.php:3134
+msgid "on"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:276
+#: includes/modules/EventList/EventList.php:290
+#: includes/modules/EventSlider/EventSlider.php:275
+msgid ""
+"Only include events for the current category page. Useful on category "
+"archive pages. For example let's say you used this module on a Theme Builder "
+"layout that is enabled for events categories. Selecting the event category "
+"above and enabling this option would show only events that are on sale when "
+"viewing events categories."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:330
+#: includes/modules/EventList/EventList.php:344
+msgid "Only Show Past Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:329
+#: includes/modules/EventList/EventList.php:343
+msgid "Only Show Upcomming Events"
+msgstr ""
+
+#: include/dem-settings.php:44
+msgid "Options data has been updated."
+msgstr ""
+
+#: include/dem_upcoming_widget.php:57
+#: includes/modules/EventGrid/EventGrid.php:211
+#: includes/modules/EventList/EventList.php:224
+#: includes/modules/EventSlider/EventSlider.php:193
+msgid "Order By"
+msgstr ""
+
+#: include/dem_admin_order_list.php:477
+msgid "Order Listing"
+msgstr ""
+
+#: include/event-post-type.php:167
+msgid "Organizer Information"
+msgstr ""
+
+#: include/single-dp_events_style2.php:32
+msgid "Organizer Name"
+msgstr ""
+
+#: include/event-post-type.php:478
+msgid "Organizer Name: "
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:621
+#: includes/modules/EventList/EventList.php:634
+msgid "Pagination Active Background Color"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:625
+msgid "Pagination Active Color"
+msgstr ""
+
+#: include/dem-settings.php:87 includes/modules/EventGrid/EventGrid.php:612
+msgid "Pagination Active Text Color"
+msgstr ""
+
+#: include/dem-settings.php:99 includes/modules/EventGrid/EventGrid.php:603
+#: includes/modules/EventList/EventList.php:616
+msgid "Pagination Background Color"
+msgstr ""
+
+#: include/dem-settings.php:75
+msgid "Pagination Color Settings"
+msgstr ""
+
+#: include/dem-settings.php:93 includes/modules/EventGrid/EventGrid.php:594
+#: includes/modules/EventList/EventList.php:607
+msgid "Pagination Text Color"
+msgstr ""
+
+#: include/event-post-type.php:122
+msgid "Parent Category"
+msgstr ""
+
+#: include/event-post-type.php:123
+msgid "Parent Category:"
+msgstr ""
+
+#: include/event-post-type.php:145
+msgid "Parent Tag"
+msgstr ""
+
+#: include/event-post-type.php:146
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:410
+msgid "Pause on mouse hover."
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:996
+#: include/single-dp_events_style1.php:30
+#: include/single-dp_events_style2.php:48
+msgid "Pay with PayPal!"
+msgstr ""
+
+#: include/dem-ajax-from.php:64 include/dem-ajax-from.php:620
+#: include/dem_admin_order_list.php:281
+msgid "Phone"
+msgstr ""
+
+#: include/dem_admin_order_list.php:487 include/dem_admin_order_list.php:577
+#: include/dem_admin_order_list.php:724 include/dem_admin_order_list.php:815
+msgid "Phone No"
+msgstr ""
+
+#: include/dem_admin_order_list.php:62 include/dem_admin_order_list.php:649
+msgid "Phone No :"
+msgstr ""
+
+#: include/single-dp_events_style2.php:36
+msgid "Phone No."
+msgstr ""
+
+#: include/event-post-type.php:438
+msgid "Phone: "
+msgstr ""
+
+#: include/event-post-type.php:430
+msgid "Postal Code:"
+msgstr ""
+
+#: include/dem-ajax-from.php:67 include/dem-ajax-from.php:624
+#: include/dem_admin_order_list.php:284 include/dem_admin_order_list.php:490
+#: include/dem_admin_order_list.php:580 include/dem_admin_order_list.php:729
+#: include/dem_admin_order_list.php:820
+msgid "Price"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:67
+#: includes/modules/EventGrid/EventGrid.php:221
+#: includes/modules/EventGrid/EventGrid.php:1622
+#: includes/modules/EventGrid/EventGrid.php:3047
+#: includes/modules/EventList/EventList.php:234
+#: includes/modules/EventList/EventList.php:1650
+#: includes/modules/EventList/EventList.php:3032
+#: includes/modules/EventSlider/EventSlider.php:203
+msgid "Random"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:527
+#: includes/modules/EventList/EventList.php:540
+#: includes/modules/EventSlider/EventSlider.php:366
+msgid "Read More Button Text"
+msgstr ""
+
+#: include/dem_admin_order_list.php:466 include/dem_admin_order_list.php:704
+msgid "Record Deleted."
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:995
+#: include/single-dp_events_style1.php:22
+#: include/single-dp_events_style2.php:30
+#: include/single-dp_events_style2.php:47
+msgid "Remaining Tickets"
+msgstr ""
+
+#: include/event-post-type.php:216
+msgid "Remove"
+msgstr ""
+
+#: include/event-post-type.php:209
+msgid "Remove Image"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:1623
+#: includes/modules/EventGrid/EventGrid.php:3048
+#: includes/modules/EventList/EventList.php:1651
+#: includes/modules/EventList/EventList.php:3033
+msgid "Reset"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:495
+msgid "Responsive : Display items between 1025 to 1800 device width per slide"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:469
+msgid "Responsive : Display items between 481 to 980 device width per slide"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:482
+msgid "Responsive : Display items between 981 to 1024 device width per slide"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:509
+msgid "Responsive : Display items from 1800 up device width per slide"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:505
+msgid "Responsive Display items between 1025 to 1800 device width per slide"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:478
+msgid "Responsive Display items between 481 to 980 device width per slide"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:491
+msgid "Responsive Display items between 981 to 1024 device width per slide"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:520
+msgid "Responsive Display items from 1800 up device width per slide"
+msgstr ""
+
+#: include/dem-settings.php:1283
+msgid "Save Settings"
+msgstr ""
+
+#: include/event-post-type.php:120
+msgid "Search Event Category"
+msgstr ""
+
+#: include/event-post-type.php:143
+msgid "Search Event Tag"
+msgstr ""
+
+#: include/dem_admin_order_list.php:10 include/dem_admin_order_list.php:595
+#: includes/modules/EventGrid/EventGrid.php:1131
+#: includes/modules/EventGrid/EventGrid.php:2553
+#: includes/modules/EventList/EventList.php:1144
+#: includes/modules/EventList/EventList.php:2538
+msgid "Security check"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:231
+#: includes/modules/EventCalendar/EventCalendar.php:237
+msgid "Select Calendar Locale/Language"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:187
+msgid "Select Column Layout"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:173
+#: includes/modules/EventList/EventList.php:201
+#: includes/modules/EventSlider/EventSlider.php:168
+msgid "Select Style"
+msgstr ""
+
+#: include/dem_admin_order_list.php:558
+msgid "Send Email"
+msgstr ""
+
+#: include/event-post-type.php:93
+msgid "Serach Event"
+msgstr ""
+
+#: divi-eventmanager.php:80
+msgid "Settings"
+msgstr ""
+
+#: include/single-dp_events_style1.php:34
+#: include/single-dp_events_style2.php:39
+msgid "Share event"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:255
+#: includes/modules/EventList/EventList.php:269
+#: includes/modules/EventSlider/EventSlider.php:238
+msgid "Show Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:290
+#: includes/modules/EventList/EventList.php:304
+msgid "Show Filter Options"
+msgstr ""
+
+#: include/event-post-type.php:454
+msgid "Show Google Map:"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:499
+#: includes/modules/EventList/EventList.php:513
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:261
+#: includes/modules/EventList/EventList.php:275
+#: includes/modules/EventSlider/EventSlider.php:244
+msgid "Show Past Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:513
+#: includes/modules/EventList/EventList.php:527
+#: includes/modules/EventSlider/EventSlider.php:352
+msgid "Show Read More Button"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:252
+msgid "Show Today/Week/Month/Year Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:260
+#: includes/modules/EventList/EventList.php:274
+#: includes/modules/EventSlider/EventSlider.php:243
+msgid "Show Upcomming Events"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:1624
+#: includes/modules/EventGrid/EventGrid.php:3049
+#: includes/modules/EventList/EventList.php:1652
+#: includes/modules/EventList/EventList.php:3034
+msgid "Showing all {totalcount} results"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:172
+msgid "Slider 1 Layout"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:173
+msgid "Slider 2 Layout"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:174
+msgid "Slider 3 Layout"
+msgstr ""
+
+#: include/dem-settings.php:118
+msgid "Slider Active Dot Color"
+msgstr ""
+
+#: include/dem-settings.php:124
+msgid "Slider Dot Color"
+msgstr ""
+
+#: include/dem-settings.php:106
+msgid "Slider Dot Color Settings"
+msgstr ""
+
+#: include/dem-settings.php:130
+msgid "Slider Hover Dot Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:414
+msgid "Slider Loop"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:22
+msgid "Slider Settings"
+msgstr ""
+
+#: include/dem-settings.php:68
+msgid "Slider View Color Settings"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:30
+msgid "Slider/Style Color Settings"
+msgstr ""
+
+#: include/event-post-type.php:41
+msgid "Slug"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:461
+#: includes/modules/EventList/EventList.php:475
+msgid "Slug : a-z"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:460
+#: includes/modules/EventList/EventList.php:474
+msgid "Slug : z-a"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:736
+#: includes/modules/EventGrid/EventGrid.php:3165
+#: includes/modules/EventList/EventList.php:1751
+#: includes/modules/EventList/EventList.php:3135
+#: includes/modules/EventSlider/EventSlider.php:1090
+#: includes/modules/EventSlider/EventSlider.php:1836
+msgid "Sorry, no events were found."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:398
+#: includes/modules/EventList/EventList.php:412
+#: includes/modules/EventSlider/EventSlider.php:306
+msgid "Specific Event Categories"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:386
+#: includes/modules/EventList/EventList.php:400
+#: includes/modules/EventSlider/EventSlider.php:294
+msgid "Specific Event Category"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:416
+#: includes/modules/EventList/EventList.php:430
+#: includes/modules/EventSlider/EventSlider.php:324
+msgid "Specific Event Tag"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:428
+#: includes/modules/EventList/EventList.php:442
+#: includes/modules/EventSlider/EventSlider.php:336
+msgid "Specific Tags"
+msgstr ""
+
+#: include/single-dp_events_style2.php:25
+msgid "Start"
+msgstr ""
+
+#: include/event-post-type.php:263 include/event-post-type.php:778
+msgid "Start Date"
+msgstr ""
+
+#: include/event-post-type.php:266
+msgid "Start Time"
+msgstr ""
+
+#: include/event-post-type.php:259
+msgid "Start/End: "
+msgstr ""
+
+#: include/event-post-type.php:422
+msgid "State or Province:"
+msgstr ""
+
+#: include/dem_admin_order_list.php:555
+msgid "Status"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:401
+msgid "Stop On Hover"
+msgstr ""
+
+#: include/dem-settings.php:69
+msgid "Style 1 & 2 and Custom Detail Page View Color Settings"
+msgstr ""
+
+#: include/dem-settings.php:205 include/dem-settings.php:396
+msgid "Style 1 Address Color"
+msgstr ""
+
+#: include/dem-settings.php:796
+msgid "Style 1 All Section Icon Color"
+msgstr ""
+
+#: include/dem-settings.php:808
+msgid "Style 1 All Section Information Color"
+msgstr ""
+
+#: include/dem-settings.php:640
+msgid "Style 1 Arrow Button Background Color"
+msgstr ""
+
+#: include/dem-settings.php:646
+msgid "Style 1 Arrow Button Background Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:628
+msgid "Style 1 Arrow Button Color"
+msgstr ""
+
+#: include/dem-settings.php:634
+msgid "Style 1 Arrow Button Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:217 include/dem-settings.php:610
+msgid "Style 1 Background Overlay Color"
+msgstr ""
+
+#: include/dem-settings.php:622
+msgid "Style 1 Background Overlay Icon Background Color"
+msgstr ""
+
+#: include/dem-settings.php:616
+msgid "Style 1 Background Overlay Icon Color"
+msgstr ""
+
+#: include/dem-settings.php:414 include/dem-settings.php:826
+msgid "Style 1 Border Color"
+msgstr ""
+
+#: include/dem-settings.php:420 include/dem-settings.php:832
+msgid "Style 1 Boxshadow Color"
+msgstr ""
+
+#: include/dem-settings.php:223 include/dem-settings.php:426
+msgid "Style 1 Boxshadow Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:187 include/dem-settings.php:378
+#: include/dem-settings.php:580 include/dem-settings.php:760
+msgid "Style 1 Color Settings"
+msgstr ""
+
+#: include/dem-settings.php:211 include/dem-settings.php:402
+#: include/dem-settings.php:604
+msgid "Style 1 Date Color"
+msgstr ""
+
+#: include/dem-settings.php:802
+msgid "Style 1 Description Color"
+msgstr ""
+
+#: include/dem-settings.php:784
+msgid ""
+"Style 1 Event Information & Event Organizer & Form Section Background Color"
+msgstr ""
+
+#: include/dem-settings.php:850
+msgid "Style 1 Form Button Background Color"
+msgstr ""
+
+#: include/dem-settings.php:856
+msgid "Style 1 Form Button Background Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:838
+msgid "Style 1 Form Button Text Color"
+msgstr ""
+
+#: include/dem-settings.php:844
+msgid "Style 1 Form Button Text Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:862
+msgid "Style 1 Form Field Background Color"
+msgstr ""
+
+#: include/dem-settings.php:874
+msgid "Style 1 Form Field Label Text Color"
+msgstr ""
+
+#: include/dem-settings.php:868
+msgid "Style 1 Form Field Placeholder Text Color"
+msgstr ""
+
+#: include/dem-settings.php:772
+msgid "Style 1 Header Background Color"
+msgstr ""
+
+#: include/dem-settings.php:778
+msgid "Style 1 Header Text Color"
+msgstr ""
+
+#: include/dem-settings.php:199 include/dem-settings.php:390
+#: include/dem-settings.php:592
+msgid "Style 1 Heading Color"
+msgstr ""
+
+#: include/dem-settings.php:408 include/dem-settings.php:598
+msgid "Style 1 Icon Color"
+msgstr ""
+
+#: include/dem-settings.php:790
+msgid "Style 1 Section Heading Color"
+msgstr ""
+
+#: include/dem-settings.php:814
+msgid "Style 1 Share Icon Color"
+msgstr ""
+
+#: include/dem-settings.php:820
+msgid "Style 1 Share Icon Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:248 include/dem-settings.php:457
+#: include/dem-settings.php:671
+msgid "Style 2 Address Color"
+msgstr ""
+
+#: include/dem-settings.php:929
+msgid "Style 2 All Section Information Color"
+msgstr ""
+
+#: include/dem-settings.php:917
+msgid "Style 2 All Section Label Color"
+msgstr ""
+
+#: include/dem-settings.php:689
+msgid "Style 2 Background Overlay Color"
+msgstr ""
+
+#: include/dem-settings.php:505
+msgid "Style 2 Bottom Border Color"
+msgstr ""
+
+#: include/dem-settings.php:290 include/dem-settings.php:947
+msgid "Style 2 Box Border Color"
+msgstr ""
+
+#: include/dem-settings.php:296 include/dem-settings.php:953
+msgid "Style 2 Boxshadow Color"
+msgstr ""
+
+#: include/dem-settings.php:302 include/dem-settings.php:695
+msgid "Style 2 Boxshadow Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:266 include/dem-settings.php:481
+msgid "Style 2 Button Background Color"
+msgstr ""
+
+#: include/dem-settings.php:278 include/dem-settings.php:493
+msgid "Style 2 Button Background Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:284 include/dem-settings.php:499
+msgid "Style 2 Button Border Color"
+msgstr ""
+
+#: include/dem-settings.php:260 include/dem-settings.php:475
+msgid "Style 2 Button Text Color"
+msgstr ""
+
+#: include/dem-settings.php:272 include/dem-settings.php:487
+msgid "Style 2 Button Text Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:230 include/dem-settings.php:433
+#: include/dem-settings.php:653 include/dem-settings.php:881
+msgid "Style 2 Color Settings"
+msgstr ""
+
+#: include/dem-settings.php:677
+msgid "Style 2 Date Color"
+msgstr ""
+
+#: include/dem-settings.php:463 include/dem-settings.php:683
+#: include/dem-settings.php:923
+msgid "Style 2 Description Color"
+msgstr ""
+
+#: include/dem-settings.php:905
+msgid ""
+"Style 2 Event Information & Event Organizer/Event Venue & Event Location "
+"Section Background Color"
+msgstr ""
+
+#: include/dem-settings.php:971
+msgid "Style 2 Form Button Background Color"
+msgstr ""
+
+#: include/dem-settings.php:977
+msgid "Style 2 Form Button Background Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:959
+msgid "Style 2 Form Button Text Color"
+msgstr ""
+
+#: include/dem-settings.php:965
+msgid "Style 2 Form Button Text Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:983
+msgid "Style 2 Form Field Background Color"
+msgstr ""
+
+#: include/dem-settings.php:995
+msgid "Style 2 Form Field Label Text Color"
+msgstr ""
+
+#: include/dem-settings.php:989
+msgid "Style 2 Form Field Placeholder Text Color"
+msgstr ""
+
+#: include/dem-settings.php:893
+msgid "Style 2 Header Background Color"
+msgstr ""
+
+#: include/dem-settings.php:899
+msgid "Style 2 Header Text Color"
+msgstr ""
+
+#: include/dem-settings.php:242 include/dem-settings.php:445
+#: include/dem-settings.php:665
+msgid "Style 2 Heading Color"
+msgstr ""
+
+#: include/dem-settings.php:451
+msgid "Style 2 Heading Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:911
+msgid "Style 2 Section Heading Color"
+msgstr ""
+
+#: include/dem-settings.php:935
+msgid "Style 2 Share Icon Color"
+msgstr ""
+
+#: include/dem-settings.php:941
+msgid "Style 2 Share Icon Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:254 include/dem-settings.php:469
+msgid "Style 2 Ticket Price Color"
+msgstr ""
+
+#: include/dem-settings.php:333 include/dem-settings.php:536
+msgid "Style 3 Address Color"
+msgstr ""
+
+#: include/dem-settings.php:357 include/dem-settings.php:566
+#: include/dem-settings.php:727
+msgid "Style 3 Box Border Color"
+msgstr ""
+
+#: include/dem-settings.php:363 include/dem-settings.php:572
+msgid "Style 3 Boxshadow Color"
+msgstr ""
+
+#: include/dem-settings.php:369
+msgid "Style 3 Boxshadow Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:745
+msgid "Style 3 Button Background Color"
+msgstr ""
+
+#: include/dem-settings.php:751
+msgid "Style 3 Button Background Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:733
+msgid "Style 3 Button Text Color"
+msgstr ""
+
+#: include/dem-settings.php:739
+msgid "Style 3 Button Text Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:309 include/dem-settings.php:512
+#: include/dem-settings.php:702
+msgid "Style 3 Color Settings"
+msgstr ""
+
+#: include/dem-settings.php:345 include/dem-settings.php:721
+msgid "Style 3 Date Color"
+msgstr ""
+
+#: include/dem-settings.php:554
+msgid "Style 3 Date/Time Color"
+msgstr ""
+
+#: include/dem-settings.php:339
+msgid "Style 3 Day Color"
+msgstr ""
+
+#: include/dem-settings.php:351 include/dem-settings.php:560
+msgid "Style 3 Description Color"
+msgstr ""
+
+#: include/dem-settings.php:321 include/dem-settings.php:524
+#: include/dem-settings.php:714
+msgid "Style 3 Heading Color"
+msgstr ""
+
+#: include/dem-settings.php:327 include/dem-settings.php:530
+msgid "Style 3 Heading Hover Color"
+msgstr ""
+
+#: include/dem-settings.php:548
+msgid "Style 3 Icon Color"
+msgstr ""
+
+#: include/dem-settings.php:542
+msgid "Style 3 Price Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:27
+#: includes/modules/EventList/EventList.php:27
+msgid "Style Color Settings"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:573
+msgid "Style1 Date & Category Icon Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:565
+msgid "Style1 Image Overlay Hover Color"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:643
+msgid "Style1 Left Box Border Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:581
+msgid "Style1 Read More Background Color"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:651
+#: includes/modules/EventSlider/EventSlider.php:590
+msgid "Style1 Read More Icon Color"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:659
+msgid "Style1 Time Location Icon Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:630
+msgid "Style2 Read More Background Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:639
+msgid "Style2 Read More Text Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:648
+#: includes/modules/EventList/EventList.php:667
+msgid "Style2 Ticket Start From Text Color"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:675
+msgid "Style2&3 Read More Hover Background Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:608
+msgid "Style3 Read More Background Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:617
+msgid "style3 Read More Border Color"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:599
+msgid "Style3 Read More Color"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:683
+msgid "Style3 RightBox Icon Color"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:20
+#: includes/modules/EventList/EventList.php:20
+#: includes/modules/EventSlider/EventSlider.php:23
+msgid "Tag/Category Settings"
+msgstr ""
+
+#: include/single-dp_events_style2.php:29
+msgid "Tags"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:991
+#: include/single-dp_events_style1.php:26
+#: include/single-dp_events_style2.php:43
+msgid "Telephone no"
+msgstr ""
+
+#: include/dem-ajax-from.php:304 include/dem-ajax-from.php:711
+#: include/dem_admin_order_list.php:369
+msgid ""
+"Thank you for contacting us. We will be in contact with you shortly. We have "
+"received your following booking/inquiry details:"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:998
+#: include/single-dp_events_style1.php:32
+#: include/single-dp_events_style2.php:50
+msgid "This Event is Expired.Please contact to website Owner"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:997
+#: include/single-dp_events_style1.php:31
+#: include/single-dp_events_style2.php:49
+msgid "This Event is fully booked.Please contact to website Owner"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:1613
+#: includes/modules/EventGrid/EventGrid.php:3038
+#: includes/modules/EventList/EventList.php:1641
+#: includes/modules/EventList/EventList.php:3023
+msgid "This Month"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:263
+msgid "This setting will turn on and off the Grid Day View."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:250
+msgid "This setting will turn on and off the Grid Week View."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:481
+#: includes/modules/EventList/EventList.php:495
+msgid "This setting will turn on and off the Hide All Option in Filter."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:349
+#: includes/modules/EventList/EventList.php:363
+msgid "This setting will turn on and off the Hide DropDown Category Filter."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:377
+#: includes/modules/EventList/EventList.php:391
+msgid "This setting will turn on and off the Hide Sorting DropDown Filter"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:363
+#: includes/modules/EventList/EventList.php:377
+msgid ""
+"This setting will turn on and off the Hide Today/Week/Month DropDown Filter"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:302
+msgid "This setting will turn on and off the List Day View."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:346
+msgid "This setting will turn on and off the List Month View."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:324
+msgid "This setting will turn on and off the List Week View."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:368
+msgid "This setting will turn on and off the List Year View."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:289
+msgid "This setting will turn on and off the Time Grid Day View."
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:276
+msgid "This setting will turn on and off the Time Grid Week View."
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:1612
+#: includes/modules/EventGrid/EventGrid.php:3037
+#: includes/modules/EventList/EventList.php:1640
+#: includes/modules/EventList/EventList.php:3022
+msgid "This Week"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:1614
+#: includes/modules/EventGrid/EventGrid.php:3039
+#: includes/modules/EventList/EventList.php:1642
+#: includes/modules/EventList/EventList.php:3024
+msgid "This Year"
+msgstr ""
+
+#: include/event-post-type.php:168
+msgid "Ticket Cost"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:993
+#: include/single-dp_events_style1.php:28
+#: include/single-dp_events_style2.php:45
+msgid "Ticket Price"
+msgstr ""
+
+#: include/dem_admin_order_list.php:71 include/dem_admin_order_list.php:664
+msgid "Ticket Price :"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:732
+#: includes/modules/EventGrid/EventGrid.php:3161
+msgid "Ticket Start From"
+msgstr ""
+
+#: include/event-post-type.php:252
+msgid "Time & Date "
+msgstr ""
+
+#: include/dem_upcoming_widget.php:84
+#: includes/modules/EventGrid/EventGrid.php:229
+#: includes/modules/EventList/EventList.php:256
+#: includes/modules/EventSlider/EventSlider.php:225
+msgid "Time Format"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:42
+#: includes/modules/EventSlider/EventSlider.php:41
+msgid "Title"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:63
+#: includes/modules/EventGrid/EventGrid.php:217
+#: includes/modules/EventGrid/EventGrid.php:458
+#: includes/modules/EventGrid/EventGrid.php:1618
+#: includes/modules/EventGrid/EventGrid.php:3043
+#: includes/modules/EventList/EventList.php:230
+#: includes/modules/EventList/EventList.php:472
+#: includes/modules/EventList/EventList.php:1646
+#: includes/modules/EventList/EventList.php:3028
+#: includes/modules/EventSlider/EventSlider.php:199
+msgid "Title: a-z"
+msgstr ""
+
+#: include/dem_upcoming_widget.php:64
+#: includes/modules/EventGrid/EventGrid.php:218
+#: includes/modules/EventGrid/EventGrid.php:459
+#: includes/modules/EventGrid/EventGrid.php:1619
+#: includes/modules/EventGrid/EventGrid.php:3044
+#: includes/modules/EventList/EventList.php:231
+#: includes/modules/EventList/EventList.php:473
+#: includes/modules/EventList/EventList.php:1647
+#: includes/modules/EventList/EventList.php:3029
+#: includes/modules/EventSlider/EventSlider.php:200
+msgid "Title: z-a"
+msgstr ""
+
+#: include/event-post-type.php:269
+msgid "To"
+msgstr ""
+
+#: include/single-dp_events_style1.php:20
+#: include/single-dp_events_style2.php:23
+#: includes/modules/EventGrid/EventGrid.php:733
+#: includes/modules/EventGrid/EventGrid.php:3162
+#: includes/modules/EventList/EventList.php:1748
+#: includes/modules/EventList/EventList.php:3132
+#: includes/modules/EventSlider/EventSlider.php:1089
+#: includes/modules/EventSlider/EventSlider.php:1835
+msgid "to"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:1611
+#: includes/modules/EventGrid/EventGrid.php:3036
+#: includes/modules/EventList/EventList.php:1639
+#: includes/modules/EventList/EventList.php:3021
+msgid "Today"
+msgstr ""
+
+#: include/dem-ajax-from.php:69 include/dem-ajax-from.php:625
+#: include/dem_admin_order_list.php:286 include/dem_admin_order_list.php:492
+#: include/dem_admin_order_list.php:582 include/dem_admin_order_list.php:730
+#: include/dem_admin_order_list.php:821
+msgid "Total Price"
+msgstr ""
+
+#: include/dem_admin_order_list.php:84 include/dem_admin_order_list.php:673
+msgid "Total price:"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:388
+msgid "Turn the autoplay on or off"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:434
+msgid "Turn the event Navigation on or off"
+msgstr ""
+
+#: includes/modules/EventSlider/EventSlider.php:456
+msgid "Turn the posts Dots Navigation on or off"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:522
+#: includes/modules/EventList/EventList.php:535
+#: includes/modules/EventSlider/EventSlider.php:361
+msgid "Turn the read more button on or off."
+msgstr ""
+
+#. base id
+#: include/dem_upcoming_widget.php:20
+msgid "Upcoming Events"
+msgstr ""
+
+#: include/event-post-type.php:125
+msgid "Update Event Category"
+msgstr ""
+
+#: include/event-post-type.php:148
+msgid "Update Event Tag"
+msgstr ""
+
+#: include/event-post-type.php:208
+msgid "Upload Image"
+msgstr ""
+
+#: include/event-post-type.php:513
+msgid "URL: "
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:269
+#: includes/modules/EventList/EventList.php:283
+#: includes/modules/EventSlider/EventSlider.php:268
+msgid "Use Current Event Category Page[This is for only Event Category Page]"
+msgstr ""
+
+#: include/dem-settings.php:1156
+msgid "User Email Setting"
+msgstr ""
+
+#: include/dem-settings.php:1142
+msgid "User Email Subject"
+msgstr ""
+
+#: include/dem_admin_order_list.php:484 include/dem_admin_order_list.php:574
+#: include/dem_admin_order_list.php:721 include/dem_admin_order_list.php:812
+msgid "User Name"
+msgstr ""
+
+#: include/event-post-type.php:166
+msgid "Venue Information"
+msgstr ""
+
+#: include/dem_admin_order_list.php:551 include/dem_admin_order_list.php:794
+#: include/dem_admin_order_list.php:794
+msgid "View"
+msgstr ""
+
+#: include/single-dp_events_style2.php:37
+msgid "Website"
+msgstr ""
+
+#: include/event-post-type.php:446
+msgid "Website:"
+msgstr ""
+
+#: includes/modules/EventGrid/EventGrid.php:307
+#: includes/modules/EventList/EventList.php:321
+msgid "Without Filter Options Show Today/Week/Month/Year Events"
+msgstr ""
+
+#: includes/modules/EventCalendar/EventCalendar.php:244
+#: includes/modules/EventCalendar/EventCalendar.php:257
+#: includes/modules/EventCalendar/EventCalendar.php:270
+#: includes/modules/EventCalendar/EventCalendar.php:283
+#: includes/modules/EventCalendar/EventCalendar.php:296
+#: includes/modules/EventCalendar/EventCalendar.php:318
+#: includes/modules/EventCalendar/EventCalendar.php:340
+#: includes/modules/EventCalendar/EventCalendar.php:362
+#: includes/modules/EventGrid/EventGrid.php:344
+#: includes/modules/EventGrid/EventGrid.php:358
+#: includes/modules/EventGrid/EventGrid.php:372
+#: includes/modules/EventGrid/EventGrid.php:476
+#: includes/modules/EventGrid/EventGrid.php:503
+#: includes/modules/EventGrid/EventGrid.php:517
+#: includes/modules/EventList/EventList.php:358
+#: includes/modules/EventList/EventList.php:372
+#: includes/modules/EventList/EventList.php:386
+#: includes/modules/EventList/EventList.php:490
+#: includes/modules/EventSlider/EventSlider.php:384
+#: includes/modules/EventSlider/EventSlider.php:405
+#: includes/modules/EventSlider/EventSlider.php:418
+#: includes/modules/EventSlider/EventSlider.php:431
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/EventList/EventList.php:517
+#: includes/modules/EventList/EventList.php:531
+#: includes/modules/EventSlider/EventSlider.php:356
+#: includes/modules/EventSlider/EventSlider.php:452
+msgid "yes"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:986
+#: include/single-dp_events_style1.php:17
+#: include/single-dp_events_style2.php:20
+msgid "Your Booking Order Placed Fail!"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:985
+#: include/single-dp_events_style1.php:16
+#: include/single-dp_events_style2.php:19
+msgid "Your Booking Order Placed Successfully!"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:988
+#: include/single-dp_events_style1.php:19
+#: include/single-dp_events_style2.php:22
+msgid "Your Inquiry Is Fail!"
+msgstr ""
+
+#: include/dem-eventmanager-shortcode.php:987
+#: include/single-dp_events_style1.php:18
+#: include/single-dp_events_style2.php:21
+msgid "Your Inquiry Submitted Successfully!"
+msgstr ""

@@ -1,0 +1,40 @@
+#dem_event_info_metabox .dp_pts,#dem_venue_info_metabox .dp_pts,#dpvenue_social_media_metabox .dp_pts,#dem_organizer_info_metabox .dp_pts ,#dpevent_website_metabox .dp_pts ,#dem_event_cost_metabox .dp_pts, #dem_event_cust_gallery-metabox .dp_pts 
+{height: auto;overflow-y: scroll;max-height: 150px;}
+#dem_event_info_metabox .hndle,#dem_venue_info_metabox .hndle,#dpvenue_social_media_metabox .hndle,#dem_organizer_info_metabox .hndle,#dpevent_website_metabox .hndle,#dem_event_cost_metabox .hndle,#dem_event_cust_gallery-metabox .hndle,#postimagediv .hndle,#event_tagdiv .hndle,#event_categorydiv .hndle
+{ border: none; color: #fff; background-color: #6C2EB9; }
+#dem_event_info_metabox .hndle.ui-sortable-handle,#dem_venue_info_metabox .hndle.ui-sortable-handle,#dpvenue_social_media_metabox .hndle.ui-sortable-handle,#dem_organizer_info_metabox .hndle.ui-sortable-handle,#dpevent_website_metabox .hndle.ui-sortable-handle,#dem_event_cost_metabox .hndle.ui-sortable-handle,#dem_event_cust_gallery-metabox .hndle.ui-sortable-handle
+{background: #6C2EB9;color: #fff;}
+#dem_event_info_metabox .hndle:before,#dem_venue_info_metabox .hndle:before,#dpvenue_social_media_metabox .hndle:before,#dem_organizer_info_metabox .hndle:before,#dpevent_website_metabox .hndle:before,#dem_event_cost_metabox .hndle:before,#dem_event_cust_gallery-metabox .hndle:before
+{ font-weight: normal; font-family: 'ETmodules'; font-size: 32px; display: block; position: absolute; left: 5px; top: -4px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.rtl #dem_event_info_metabox .hndle.ui-sortable-handle,
+#dem_venue_info_metabox .hndle.ui-sortable-handle,#dpvenue_social_media_metabox .hndle.ui-sortable-handle,#dem_organizer_info_metabox .hndle.ui-sortable-handle,#dpevent_website_metabox .hndle.ui-sortable-handle,#dem_event_cost_metabox .hndle.ui-sortable-handle,#dem_event_cust_gallery-metabox .hndle.ui-sortable-handle
+{ padding-right: 38px; padding-left: 12px; }
+.rtl #dem_event_info_metabox .hndle:before,
+#dem_venue_info_metabox .hndle:before,#dpvenue_social_media_metabox .hndle:before,#dem_organizer_info_metabox .hndle:before,#dpevent_website_metabox .hndle:before,#dem_event_cost_metabox .hndle:before,#dem_event_cust_gallery-metabox .hndle:before
+	{ left: 0; right: 5px; }
+
+#dem_event_info_metabox .toggle-indicator,#dem_venue_info_metabox .toggle-indicator,#dpvenue_social_media_metabox .toggle-indicator,#dem_organizer_info_metabox .toggle-indicator,#dpevent_website_metabox .toggle-indicator,#dem_event_cost_metabox .toggle-indicator,#dem_event_cust_gallery-metabox .toggle-indicator
+	{color: #fff;}
+#dem_event_info_metabox .inside,#dem_venue_info_metabox .inside,#dpvenue_social_media_metabox .inside,#dem_organizer_info_metabox .inside,#dpevent_website_metabox .inside,#dem_event_cost_metabox .inside,#dem_event_cust_gallery-metabox .inside
+{ padding-top: 1px !important; }
+#dem_event_info_metabox .handlediv,#dem_venue_info_metabox .handlediv,#dpvenue_social_media_metabox .handlediv,#dem_organizer_info_metabox .handlediv,#dpevent_website_metabox .handlediv,#dem_event_cost_metabox .handlediv,#dem_event_cust_gallery-metabox .handlediv{ color: #fff; }
+
+#side-sortables #dem_event_info_metabox input:focus,#side-sortables #dem_venue_info_metabox input:focus,#side-sortables #dpvenue_social_media_metabox input:focus,#side-sortables #dem_organizer_info_metabox input:focus,#side-sortables #dpevent_website_metabox input:focus,#side-sortables #dem_event_cost_metabox input:focus,#side-sortables #dem_event_cust_gallery-metabox input:focus{color: #444; }
+#side-sortables #dem_event_info_metabox input[type=checkbox],#side-sortables #dem_venue_info_metabox input[type=checkbox],#side-sortables #dpvenue_social_media_metabox input[type=checkbox],#side-sortables #dem_organizer_info_metabox input[type=checkbox],#side-sortables #dpevent_website_metabox input[type=checkbox],#side-sortables #dem_event_cost_metabox input[type=checkbox],#side-sortables #dem_event_cust_gallery-metabox input[type=checkbox]{width: auto; background-color: #fff; border: 1px solid #E4ECF2; margin-left: 17%; }
+#side-sortables #dem_event_info_metabox input,#side-sortables #dem_venue_info_metabox input,#side-sortables #dpvenue_social_media_metabox input,#side-sortables #dem_organizer_info_metabox input,#side-sortables #dpevent_website_metabox input,#side-sortables #dem_event_cost_metabox input,#side-sortables #dem_event_cust_gallery-metabox input{background-color: #F5F8FA; color: #A8B7C5; margin-right: 5%; width: 43%; border: none; box-shadow: none; -webkit-box-shadow: none; outline: none; padding: 0; }
+#side-sortables #dem_event_info_metabox label,#side-sortables #dem_venue_info_metabox label,#side-sortables #dpvenue_social_media_metabox label,#side-sortables #dem_organizer_info_metabox label,#side-sortables #dpevent_website_metabox label,#side-sortables #dem_event_cost_metabox label,#side-sortables #dem_event_cust_gallery-metabox label,#side-sortables #et_settings_meta_box input,#side-sortables #et_settings_meta_box_tax input,#side-sortables #et_settings_meta_box_tag input{display: inline-block !important; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; }
+#side-sortables #dem_event_info_metabox label,#side-sortables #dem_venue_info_metabox label,#side-sortables #dpvenue_social_media_metabox label,#side-sortables #dem_organizer_info_metabox label,#side-sortables #dpevent_website_metabox label,#side-sortables #dem_event_cost_metabox label,#side-sortables #dem_event_cust_gallery-metabox label{background-color: #fff; margin: 0 !important; padding: 10px 5% 10px 5%; width: 50%; border-right: 1px solid #E4ECF2; }
+
+#side-sortables #dem_event_info_metabox p,#side-sortables #dem_venue_info_metabox p,#side-sortables #dpvenue_social_media_metabox p,#side-sortables #dem_organizer_info_metabox p,#side-sortables #dpevent_website_metabox p,#side-sortables #dem_event_cost_metabox p,#side-sortables #dem_event_cust_gallery-metabox p{ padding: 0; margin: 0; background-color: #F5F8FA; }
+#side-sortables #dem_event_info_metabox p:last-child,#side-sortables #dem_venue_info_metabox p:last-child,#side-sortables #dpvenue_social_media_metabox p:last-child,#side-sortables #dem_organizer_info_metabox p:last-child,#side-sortables #dpevent_website_metabox p:last-child,#side-sortables #dem_event_cost_metabox p:last-child,#side-sortables #dem_event_cust_gallery-metabox p:last-child
+{ border-bottom: 0; }
+#side-sortables #dem_event_info_metabox .inside,#side-sortables #dem_venue_info_metabox .inside,#side-sortables #dpvenue_social_media_metabox .inside,#side-sortables #dem_organizer_info_metabox .inside,#side-sortables #dpevent_website_metabox .inside,#side-sortables #dem_event_cost_metabox .inside,#side-sortables #dem_event_cust_gallery-metabox .inside
+{padding: 0; margin: 0; }
+#side-sortables #dem_event_info_metabox .et_pb_page_settings,#side-sortables #dem_venue_info_metabox .et_pb_page_settings,#side-sortables #dpvenue_social_media_metabox .et_pb_page_settings,#side-sortables #dem_organizer_info_metabox .et_pb_page_settings,#side-sortables #dpevent_website_metabox .et_pb_page_settings,#side-sortables #dem_event_cost_metabox .et_pb_page_settings,#side-sortables #dem_event_cust_gallery-metabox .et_pb_page_settings
+{ border-bottom: 1px solid #E4ECF2; }
+.dp_pts .dp_pts_label{display: block; font-weight: bold; margin-bottom: 5px;}
+
+.dem_order table.wp-list-table.view_click,.dem_order table.wp-list-table.view_click td ,.dem_order  table.wp-list-table.view_click th {border:1px solid #ccc;}
+.dem_order table.wp-list-table.view_click{width: 50%;margin: auto;}
+.dem_orderlist_back{padding: 4px 8px;position: relative;top: -3px;text-decoration: none;border: none;border: 1px solid #ccc;border-radius: 2px;background: #f7f7f7;text-shadow: none;font-weight: 600;font-size: 13px;line-height: normal;color: #0073aa;cursor: pointer;}
+.dem_orderlist_back:hover{color:#f7f7f7;background: #0073aa;}

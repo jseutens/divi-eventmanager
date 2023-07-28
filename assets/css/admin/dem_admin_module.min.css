@@ -1,0 +1,39 @@
+.et-fb-modal-settings--modules_all .dpevent_grid,.et-fb-modal-settings--modules_all .dpevent_list,.et-fb-modal-settings--modules_all .dpevent_slider,.et-fb-modal-settings--modules_all .dpevent_calendar{
+	background-color:#9e248fbf !important;
+	color:#FFFFFF  !important;
+}
+.et-fb-modal-settings--modules_all .dpevent_grid:hover,.et-fb-modal-settings--modules_all .dpevent_list:hover,.et-fb-modal-settings--modules_all .dpevent_slider:hover,.et-fb-modal-settings--modules_all .dpevent_calendar:hover{
+	background-color:#9e248f !important;
+	color:#FFFFFF  !important;
+}
+.et-db #et-boc .et-l .dpevent_grid.et-fb-has-svg-icon .et-fb-icon svg,.et-db #et-boc .et-l .dpevent_list.et-fb-has-svg-icon .et-fb-icon svg,.et-db #et-boc .et-l .dpevent_slider.et-fb-has-svg-icon .et-fb-icon svg,.et-db #et-boc .et-l .dpevent_calendar.et-fb-has-svg-icon .et-fb-icon svg  {
+    width: 32px !important;
+    height: 20px !important;
+}
+
+#dem_tab_labels div.et-epanel-box:nth-child(1) .et-box-title h3,
+#dem_tab_labels div.et-epanel-box:nth-child(22) .et-box-title h3,
+#dem_tab_labels div.et-epanel-box:nth-child(26) .et-box-title h3,
+#dem_tab_labels div.et-epanel-box:nth-child(33) .et-box-title h3,
+#dem_tab_labels div.et-epanel-box:nth-child(39) .et-box-title h3,
+#dem_tab_labels div.et-epanel-box:nth-child(58) .et-box-title h3,
+#dem_tab_labels div.et-epanel-box:nth-child(41) .et-box-title h3,
+#dem_tab_general div.et-epanel-box:nth-child(1) .et-box-title h3,
+#dem_tab_general div.et-epanel-box:nth-child(4) .et-box-title h3,
+#dem_tab_general div.et-epanel-box:nth-child(8) .et-box-title h3,
+#dem_tab_general div.et-epanel-box:nth-child(12) .et-box-title h3
+{
+	font-weight: bold !important;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 22px;
+	text-decoration: underline;
+}
+
+#dem_tab_labels div.et-epanel-box:nth-child(22),#dem_tab_labels div.et-epanel-box:nth-child(26),#dem_tab_labels div.et-epanel-box:nth-child(33),#dem_tab_labels div.et-epanel-box:nth-child(39),#dem_tab_general div.et-epanel-box:nth-child(4),#dem_tab_general div.et-epanel-box:nth-child(8),#dem_tab_general div.et-epanel-box:nth-child(12),#dem_tab_labels div.et-epanel-box:nth-child(41),#dem_tab_labels div.et-epanel-box:nth-child(58){
+    border-top: 1px solid #72777c66;
+    margin-top: 20px;
+}
+#dem_tab_labels .et-epanel-box:nth-child(22) .et-box-title,#dem_tab_labels .et-epanel-box:nth-child(26) .et-box-title,#dem_tab_labels .et-epanel-box:nth-child(33) .et-box-title,#dem_tab_labels .et-epanel-box:nth-child(39) .et-box-title ,#dem_tab_general div.et-epanel-box:nth-child(1) .et-box-title,#dem_tab_general div.et-epanel-box:nth-child(4) .et-box-title,#dem_tab_general div.et-epanel-box:nth-child(8) .et-box-title,#dem_tab_general div.et-epanel-box:nth-child(12) .et-box-title,#dem_tab_labels .et-epanel-box:nth-child(41) .et-box-title,#dem_tab_labels .et-epanel-box:nth-child(58) .et-box-title   {
+    width: 100%;
+}

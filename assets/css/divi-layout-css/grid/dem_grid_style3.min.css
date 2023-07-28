@@ -1,0 +1,20 @@
+.dem_grid_style3{width:100%;padding: 0px;}
+.dem_grid_style3 .et_pb_column{box-shadow: 0 5px 15px rgba(0,0,0,0.3);transition: box-shadow 0.3s ease-in-out;padding: 10px;position: relative;text-align: center;margin-bottom: 30px;box-shadow: rgba(0, 0, 0, 0.016) 0px 2px 0px 0px;border-width: 1px;border-style: solid;border-color: rgb(226, 226, 226);border-image: initial;background: rgb(255, 255, 255);}
+.dem_grid_style3 .et_pb_column:hover{box-shadow: 0 1px 2px rgba(0,0,0,0.15);transition: box-shadow 0.3s ease-in-out;}  
+.dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_date_city_day{margin-bottom: 10px;text-align: left;padding: 9px 14px 6px;}
+.dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_date_city_day .dem_grid_style3_date_month{text-transform: uppercase;font-size: 17px;line-height: 20px;padding-top: 4px;}
+.dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_date_city_day .dem_grid_style3_city{font-size: 12px;}
+.dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_date_city_day .dem_grid_style3_day{margin-top: 9px;color: #CCCCCC;font-size: 25px;font-weight: 100;text-transform: uppercase;letter-spacing: -1px;}
+.dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_event_content{background: #fff;color: #767676;padding: 10px 15px 10px;text-align: left;}
+.dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_event_content h4.dem_grid_style3_event_title{font-weight: 400;font-style: normal;color: rgb(32, 32, 32);font-size: 24px;text-align: left;text-transform: none;letter-spacing: -1px;margin: 0px 0px 10px;line-height: 1.2;}
+.dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_event_content .dem_grid_title a{text-decoration: none;}
+.dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_event_content .dem_grid_title a:hover{color: #40d9f1;}
+.dem_grid_style3 .dem_grid_style3_event_text{max-height: 60px;overflow: hidden;padding-top: 10px;}
+.dem_grid_style3 .dem_grid_style3_venue i.et-pb-icon {font-size: 14px !important;margin-right:5px;}
+@media screen and (max-width: 980px){
+  .dem_grid_style3 .et_pb_column{margin-bottom: 5.5% !important;} 
+}
+@media screen and (min-width:980px) and (max-width: 1080px){
+  .dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_date_city_day .dem_grid_style3_day,
+  .dem_grid_style3 .dem_grid_style3_container .dem_grid_style3_event_content .dem_grid_title{font-size: 20px;}
+}

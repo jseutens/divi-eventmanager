@@ -1,0 +1,39 @@
+.et-db #et-boc .et_pb_fullwidth_header ,.et_pb_fullwidth_header{background-color: #7ccbe6;}
+.et-db #et-boc h1.et_pb_module_header , h1.et_pb_module_header{color:#fff;text-transform: uppercase;padding-bottom:0px;}
+.et-db #et-boc .et_pb_module.et_pb_text .et_pb_text_inner table, .et_pb_module.et_pb_text .et_pb_text_inner table{margin-right: 3%;width: 100%;margin-bottom: 3%;}
+.et-db #et-boc .et_pb_module.et_pb_text .et_pb_text_inner table tr td, .et_pb_module.et_pb_text .et_pb_text_inner table tr td, .et-db #et-boc .et_pb_module.et_pb_text .et_pb_text_inner table tr th,.et_pb_module.et_pb_text .et_pb_text_inner table tr th {padding : 16px;border: 1px solid #eee;}
+.et-db #et-boc .et_pb_module.et_pb_text .et_pb_text_inner table tr th a, .et_pb_module.et_pb_text .et_pb_text_inner table tr th a{position: absolute;right: 0;top: 0;padding : 5px;color:#fff;}
+.et-db #et-boc .et_pb_module.et_pb_text .et_pb_text_inner table tr td, .et_pb_module.et_pb_text .et_pb_text_inner table tr td{font-size: 16px;}
+.et-db #et-boc .et_pb_module.et_pb_text .et_pb_text_inner table tr td i ,
+.et_pb_module.et_pb_text .et_pb_text_inner table tr td i{font-size: 20px;}
+.et-db #et-boc .et_pb_module.et_pb_text .et_pb_text_inner table tr th{font-weight: 300;line-height: 1.3em;color: #111c24;}
+.et-db #et-boc .event_share ul.et_pb_social_media_follow li a, 
+.event_share ul.et_pb_social_media_follow li a{color: #595fde;}
+.et-db #et-boc .event_share ul.et_pb_social_media_follow li a:hover ,.event_share ul.et_pb_social_media_follow li a:hover{color: #222;}
+.et-db #et-boc .event_share ul.et_pb_social_media_follow li a i.event_social_icon,.event_share ul.et_pb_social_media_follow li a i.event_social_icon{font-size: 30px;font-weight: 400;-webkit-font-smoothing: antialiased;}
+.et-db #et-boc .image_gallery .popup-gallery img,
+.image_gallery .popup-gallery img{margin-right: 10px;cursor: zoom-in;}
+.et-db #et-boc .event_share .et_pb_text_inner, .image_gallery .et_pb_text_inner, .dem_detail_style1_google_map .et_pb_text_inner,
+.event_share .et_pb_text_inner, .image_gallery .et_pb_text_inner, .dem_detail_style1_google_map .et_pb_text_inner{margin-bottom :5px;}
+.et-db #et-boc .et_pb_row.dem_detail_style1_google_map #map, .et_pb_row.dem_detail_style1_google_map #map{width:100%;height:400px;}
+.et-db #et-boc .et_pb_module.et_pb_contact_form_container .et-pb-contact-message , .et_pb_module.et_pb_contact_form_container .et-pb-contact-message{color: #a94442;background-color: #f2dede;border-color: #ebccd1;padding: 0 10px;margin-bottom: 10px;}
+.dem_detail_style1_meta_info .et_pb_row.event_content .et_pb_section , .dem_detail_style1_meta_info .et_pb_row.event_content .et_pb_row{padding:0px !important;width:100% !important;}
+.dem_detail_style1_ticket_booking .dem_avilable_ticket{padding-bottom: 15px;font-size: 20px;}
+#dem_detail_style1_contact_form .et-pb-contact-message p{color: #3c763d;background-color: #dff0d8;border-color: #d6e9c6;margin-left: 0px;padding:5px;margin-bottom: 10px;}
+#dem_detail_style1_contact_form #dem_ticket_booking_paypal .et_pb_contact_field .error , .error {color:red;}
+.dem_detail_style1_event_content .et_pb_module.et_pb_text{margin-bottom:0px !important;}
+.dem_detail_style1_google_map iframe {border:1px solid #ccc;}
+.et_pb_section.dem_detail_style1_meta_info{padding:0px !important;}
+#dem_ticket_booking_paypal .dem_ticket_booking_left{padding-left:0px !important;}
+#dem_ticket_booking_paypal .et_pb_contact_submit.et_pb_button{display: inline-block;margin: 0;margin-right: 80%;}
+#dem_ticket_booking_paypal .et_pb_contact_submit.et_pb_button:hover{padding: .3em 1em !important;}
+.dem-detail-style1{box-shadow: 0 2px 5px rgba(0,0,0,0.3);}
+.dem_detail_style1_ticket_booking{padding: 20px;box-shadow: 0 2px 5px rgba(0,0,0,0.3);}
+.dem_ticket_booking_left{padding: 0% !important;}
+.dem_events_paypal_button,.dem_events_submit_button{border: 2px solid #40d9f1;padding: 8px 10px;cursor: pointer;
+background-color: #40d9f1;border-radius: 5px;font-size: 20px;font-weight: 700;}
+.dem_events_paypal_button:hover,.dem_events_submit_button:hover{border-color: #00BBA3;background-color: #00BBA3;color: #fff;}
+.dem_ticket_booking_left{float: none !important;}
+.mfp-bg,.mfp-wrap {
+    z-index: 999999 !important;
+}

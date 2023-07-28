@@ -1,0 +1,24 @@
+.dem_grid_style1 {margin:0;width:100% ;padding: 0px !important;}
+.dem_grid_style1:before{content: "";display: table;}
+.dem_grid_style1 .et_pb_column{margin-bottom: 5.5%;}
+/* Main Content Div */
+.dem_grid_style1 div.dem_grid_main_content {list-style-type: none!important;line-height: 1.4em;position: relative;transition: box-shadow 0.3s ease-in-out;}
+.dem_grid_style1 div.dem_grid_main_content:hover{box-shadow: 0 0 10px 0 rgba(91, 95, 31, 0.7);transition: box-shadow 0.3s ease-in-out;}
+.dem_grid_style1 .dem_grid_main_content a{background-size: cover;background-position: center;border-left-color:rgb(89, 95, 222);background-color: #0000008a;background-blend-mode: multiply;color: #fff!important;display: block;padding: 25px;}
+.dem_grid_style1 .dem_grid_main_content a:before {position: absolute;z-index: 4;background: rgba(19, 18, 18, 0.5);content: "";width: 100%;height: 100%;display: block;left: 0;top: 0;opacity: 0;-webkit-transition: all 0.3s ease 0.1s!important;-moz-transition: all 0.3s ease 0.1s!important;-ms-transition: all 0.3s ease 0.1s!important;-o-transition: all 0.3s ease 0.1s!important;transition: all 0.3s ease 0.1s!important;box-sizing: border-box;}
+.dem_grid_style1 .dem_grid_main_content a:hover:before {opacity: 1;}
+/* Title & Venue */
+.dem_grid_style1 div.dem_grid_main_content .dem_grid_detail{display: block;position: relative;z-index: 1;}
+.dem_grid_style1 div.dem_grid_main_content .dem_grid_detail .dem_grid_title_content .dem_grid_title{   display: block;padding-bottom: 20px;color:#fff;}
+.dem_grid_style1 div.dem_grid_main_content .dem_grid_detail .dem_grid_venue{opacity: .8;}
+.dem_grid_style1 .dem_grid_main_content .dem_grid_venue i.et-pb-icon{font-size: 14px !important;}
+/* Date & Time */
+.dem_grid_style1 div.dem_grid_main_content .dem-event-date{display: block;margin-top: 40px;position: relative;z-index: 1;}
+.dem_grid_style1 div.dem_grid_main_content .dem-event-date .dem-event-day{text-align: left;text-transform: uppercase;letter-spacing: 1px;font-size: 36px;line-height: 36px;display: block;width: 100%;}
+.dem_grid_style1 div.dem_grid_main_content .dem-event-date .dem-event-month{text-align: left;text-transform: uppercase;letter-spacing: 1px;font-size: 14px;margin-bottom: 6px;display: block;width: 100%;}
+.dem_grid_style1 div.dem_grid_main_content .dem-event-date .dem-event-time{text-align: left;text-transform: uppercase;letter-spacing: 1px;opacity: .8;display: block;width: 100%;}
+/* Text */
+.dem_grid_style1 .dem_grid_event_text{max-height: 60px;overflow: hidden;}
+@media screen and (max-width: 980px){
+  .dem_grid_style1 .et_pb_column{margin-bottom: 5.5% !important;} 
+}

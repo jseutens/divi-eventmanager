@@ -1,0 +1,14 @@
+.dem_grid_style2{margin:0;width:100%;padding: 0px;}
+.dem_grid_style2 .et_pb_column{margin-bottom: 5.5%;box-shadow: 5px 5px 0px #00000038;border:1px solid #999;padding: 12px;transition: box-shadow 0.3s ease-in-out;}
+.dem_grid_style2 .et_pb_column:hover{box-shadow: 0px 5px 25px #999;transition: box-shadow 0.3s ease-in-out;}
+.dem_grid_style2_event_detail .dem_grid_style2_event_cost {color: #ed4a43;font-size: 15px;line-height: 15px;font-weight: 900;}
+.dem_grid_style2_event_detail .dem_grid_style2_event_text .et_pb_section {padding:0px;}
+.dem_grid_style2_event_detail .dem_grid_style2_event_text{margin-bottom:10px;max-height: 70px;overflow: hidden;}
+.dem_grid_style2_event_detail .dem_grid_style2_event_date_time_venue i.et-pb-icon {font-size: 14px !important;}
+.dem_grid_style2 .dem_grid_style2_book_now{margin-bottom: 20px;}
+.dem_grid_style2_event_detail .dem_grid_style2_book_now a{color:#333;border: 1px solid !important;}
+.dem_grid_style2_event_detail .dem_grid_style2_book_now a:hover{color:#fff !important;border:none !important;background-color: #ed4a43 !important;border:1px solid #ed4a43 !important;text-decoration: none !important;padding: .3em 1em !important;}
+.dem_grid_style2_event_detail .dem_grid_style2_book_now a:after {display:none !important;}
+@media screen and (max-width: 980px){
+  .dem_grid_style2 .et_pb_column{margin-bottom: 5.5% !important;} 
+}
